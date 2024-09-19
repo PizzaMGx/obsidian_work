@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Kredio/Kredio Fraud Check.md",
+                "file": "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Kredio/Kredio Fraud Check.md",
+                "file": "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Kredio/Kredio Fraud Check.md",
+                "file": "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Kredio/Kredio Fraud Check.md"
+                "file": "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md"
               }
             }
           }
@@ -143,15 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b51018b8d25fd4",
+  "active": "37fcc2630fc2dec6",
   "lastOpenFiles": [
-    "SysAdmin & Cybersecurity/Linux Fundamentals",
-    "Work/Kredio/Kredio Fraud Check.md",
-    "Work/Wevisu/WEW Tools.md",
+    "Programming/Web Dev/Django Rest Framework WorkTree.md",
+    "Notes/Notes Test Drawing.excalidraw.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
     "Untitled.md",
+    "Notes",
+    "Work/Kredio/Kredio Fraud Check.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals",
+    "Work/Wevisu/WEW Tools.md",
     "Work/Wevisu/Untitled",
     "Work/Wevisu",
     "Work/Kredio",
