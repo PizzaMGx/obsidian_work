@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Wevisu/WEW Tools Tasks.md",
-                "mode": "preview",
+                "file": "Work/Kredio/Kredio Fraud Check.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5df7c43e35049606",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Wevisu/WEW Tools Tasks.md",
+                "file": "Work/Kredio/SDN.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Wevisu/WEW Tools Tasks.md",
+                "file": "Work/Kredio/SDN.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Wevisu/WEW Tools Tasks.md"
+                "file": "Work/Kredio/SDN.excalidraw.md"
               }
             }
           }
@@ -138,29 +149,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37fcc2630fc2dec6",
+  "active": "59b51018b8d25fd4",
   "lastOpenFiles": [
-    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
-    "Work/Wevisu/WEW Tools Tasks.md",
-    "SysAdmin & Cybersecurity/Linux Fundamentals/Hacking Linux Essentials.md",
-    "SysAdmin & Cybersecurity/Linux Fundamentals/Task Scheduling.md",
-    "Work/Wevisu/WEW Tools.md",
+    "Work/Kredio/Kredio Fraud Check.md",
+    "Work/Kredio/SDN.excalidraw.md",
+    "Excalidraw",
     "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
+    "Work/Wevisu/WEW Tools Tasks.md",
+    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Task Scheduling.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Hacking Linux Essentials.md",
     "Programming/Web Dev/Django Rest Framework WorkTree.md",
     "Notes/Notes Test Drawing.excalidraw.md",
     "Untitled.md",
     "Notes",
-    "Work/Kredio/Kredio Fraud Check.md",
     "SysAdmin & Cybersecurity/Linux Fundamentals",
+    "Work/Wevisu/WEW Tools.md",
     "Work/Wevisu/Untitled",
     "Work/Wevisu",
     "Work/Kredio",
@@ -169,7 +182,6 @@
     "Programming/Web Dev",
     "Cibersecurity.md",
     "SysAdmin & Cybersecurity",
-    "Welcome.md",
-    "Work"
+    "Welcome.md"
   ]
 }
