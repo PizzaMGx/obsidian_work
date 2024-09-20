@@ -1,0 +1,4 @@
+- [x] Bathub Processor ✅ 2024-09-19
+- [ ] Floring Processor
+- [ ] Multi-spreadsheet processing (one for each material and discontinued products)
+- [ ] Nicer interface
