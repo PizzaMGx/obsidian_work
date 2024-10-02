@@ -28,9 +28,59 @@
                 "file": "Work/Kredio/SDN.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f3ec9d53ef8db7f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3502f066cdd2decc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b34bab28e4ce74ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "05f4f1fadcd2e987",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "23e5c765be745c0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Work/Kredio/SDN.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,16 +208,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b51018b8d25fd4",
+  "active": "23e5c765be745c0a",
   "lastOpenFiles": [
-    "Work/Kredio/Kredio Fraud Check.md",
-    "Work/Kredio/SDN.excalidraw.md",
-    "Excalidraw",
-    "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
-    "Work/Wevisu/WEW Tools Tasks.md",
-    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
     "SysAdmin & Cybersecurity/Linux Fundamentals/Task Scheduling.md",
     "SysAdmin & Cybersecurity/Linux Fundamentals/Hacking Linux Essentials.md",
+    "Work/Kredio/SDN.excalidraw.md",
+    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
+    "Work/Kredio/Kredio Fraud Check.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
+    "Excalidraw",
+    "Work/Wevisu/WEW Tools Tasks.md",
     "Programming/Web Dev/Django Rest Framework WorkTree.md",
     "Notes/Notes Test Drawing.excalidraw.md",
     "Untitled.md",
