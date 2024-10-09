@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7739a554774b1977",
+        "id": "c92832ef621d30ec",
         "type": "tabs",
         "children": [
           {
-            "id": "37fcc2630fc2dec6",
+            "id": "951b9f4e11398302",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5df7c43e35049606",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f3ec9d53ef8db7f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3502f066cdd2decc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b34bab28e4ce74ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "05f4f1fadcd2e987",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "23e5c765be745c0a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md",
+                "file": "Work/Kredio/Kredio Fraud Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md",
+                "file": "Work/Kredio/Kredio Fraud Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Kredio/SDN.excalidraw.md"
+                "file": "Work/Kredio/Kredio Fraud Check.md"
               }
             }
           }
@@ -208,19 +147,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23e5c765be745c0a",
+  "active": "951b9f4e11398302",
   "lastOpenFiles": [
-    "SysAdmin & Cybersecurity/Linux Fundamentals/Task Scheduling.md",
-    "SysAdmin & Cybersecurity/Linux Fundamentals/Hacking Linux Essentials.md",
     "Work/Kredio/SDN.excalidraw.md",
-    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
     "Work/Kredio/Kredio Fraud Check.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/File System Management.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Hacking Linux Essentials.md",
+    "SysAdmin & Cybersecurity/Linux Fundamentals/Task Scheduling.md",
     "SysAdmin & Cybersecurity/Linux Fundamentals/Backups in Linux Systems.md",
+    "().md",
+    "Notes/Project Ideas.md",
+    "Untitled.md",
+    "Work/Kredio/How to mount a CIFS share to a container in Docker Desktop.md",
+    "Pasted image 20241004110417.png",
+    "Untitled.canvas",
+    "2024-10-04.md",
+    "Tasks Plugin - Review and check your Statuses 2024-09-19 23-37-06.md",
     "Excalidraw",
     "Work/Wevisu/WEW Tools Tasks.md",
     "Programming/Web Dev/Django Rest Framework WorkTree.md",
     "Notes/Notes Test Drawing.excalidraw.md",
-    "Untitled.md",
     "Notes",
     "SysAdmin & Cybersecurity/Linux Fundamentals",
     "Work/Wevisu/WEW Tools.md",

@@ -1,0 +1,5 @@
+- Brainrot Block Browser Extension
+- Hyprland
+- Homelab setup with Adguard and DNS management 
+- Classic Games Database
+- Ana de armas AI (ADAI)
