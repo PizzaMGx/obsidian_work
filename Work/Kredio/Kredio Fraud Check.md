@@ -9,9 +9,16 @@ OFAC Database Load:
 	Load Sanctions Entries
 	Load Profile Relationships
 
-OFAC Locations Checks:
-- When User submits address
-	-  Search Location data in Locations
-
+KYC OFAC Checks:
+- When User submits address (CustomerAddress model)
+	- Google Maps Api to validate the address
+	- Search Street field in LocationPartValue that the location_part.type == Address; Consider in the future adding A2 A3 ...
+	- Search City field in LocationPartValue that the location_part.type == City;
+	- Search State.name field in LocationPartValue that the location_part.type == State
+- When User Submits First Name, Last Name and DOB
+	- Search FirstName, LastName in Identity where AliasType == Name, NamePartValue.NamePartGroup.NamePartType == FirstName and Last Name 
+- When User submits SSN, (ID Document)
+	- Check SSN field in OFACIDRegDocument.id_reg_doc_type that is in "SSN" and matches id_registration_no
+	
 OFAC Report:
 
