@@ -1,0 +1,8 @@
+- Achieve Peace and happiness 
+- Live close to all my friends and maintain traditions 
+- Make a good amount of money and help my family
+- Learn Cybersecurity, AI, Automation and become the perfect Software Developer
+- Build a Good house with Gaming Room
+- Getting Married and have 3 Kids 
+- Get Shredded [[Gym Notes]]
+- 
