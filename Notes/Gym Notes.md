@@ -1,0 +1,9 @@
+- Diet
+	- Remove Sugar (Except from coffee)
+	- Go slow with the Cheese, bread and Peanut Butter
+	- No rice 
+	- Keep Body Weight count weekly (11/14/2024)
+	- Only Drink when Necessary
+- Workout
+	- Go to the gym Regularly +3 Times/Week
+	- Regain the Habit of running 
