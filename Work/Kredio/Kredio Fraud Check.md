@@ -47,3 +47,15 @@ Monitoring Internal Transfers
 	- Review only the memo, if it contains the keywords for the OFAC entities then cancel the transfer 
 - Zelle and Cashapp still pending
 - OFAC for Recipients, FN, LN, Phone, Email
+
+1 - Fuzzy logic algorithms for transaction clustering to prevent structuring
+	- Logic Implemented in Card Load, Cash Deposits and Check Deposit
+	- Card Load is started by Galileo Auth Api and Cash/Check Deposit by Kredio
+	- The system will run a check for every incoming transaction of those types, will check for the previous 20 days deposits if the sum of those transactions is greater than $10000 it will raise a Flag: Stacking Transactions Alert for account ACC_ID, Total: Amount and cancel the incoming transaction
+2 - Detecting continuous deposits and withdrawals in short period
+	 - Logic implemented in ATM Withdrawals, Card Load, Cash Deposits and Check Deposits
+	 - Card Load and ATM Withdrawals is started by Galileo Auth Api and Cash/Check Deposit by Kredio
+	 - There are account Limits for certain those actions in a certain period of time that can be different between users for example a user can only perform 10 ATM withdrawals every month, once that limit is Reached it will raise a flag Flag: 10 Card Load Deposits detected in 5 days for account ACC_ID. Same logic for the other cases
+3 - Activity involving offshore jurisdictions
+	   - OFAC checks to check the entity 
+	   - Also if the Country is not in the allowed Countries raise a flag Flag: Alert in transaction: Country Tajikistan Not Allowed
