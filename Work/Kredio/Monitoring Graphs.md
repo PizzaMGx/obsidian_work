@@ -12,3 +12,4 @@ Graph to Show Transactions over time
 	- Keep in mind double Linked Nodes <----> 
 	- Also Amount of Transactions and money can be implemented as weight values
 	- Implement Reverse Search as well, from a user get all the sender "Parent" nodes
+
