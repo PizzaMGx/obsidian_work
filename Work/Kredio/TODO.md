@@ -13,3 +13,8 @@ Cash Deposit
 ACH
 	Transfers originated inside and outside of kredio, implement the same logic as internal transfers and Card Load, Just filter the Types 
 Lastly Filter in PMT and ADJ
+
+SCRIPT FOR BALANCES IN SYNC
+SCRIPT TO UPDATE OFAC
+Replicate Merchant and MCC Controls to Galileo
+User Interface Action Controls check, and user money movement limit function move it to class 
