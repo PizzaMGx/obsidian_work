@@ -3,3 +3,6 @@
 - Homelab setup with Adguard and DNS management 
 - Classic Games Database
 - Ana de armas AI (ADAI)
+- Dota 2 Statistics 
+- Natalie Portfolio
+- Natalie Firm Website

@@ -418,81 +418,81 @@ Unknown ^XnHkCh2b
 Main ^BxA91yvH
 
 ## Element Links
-zyHlWWSn: [[Work/Kredio/SDN.excalidraw.md#^-7Ts8Rrz6kZqYtBfKaOoZ|ID Reg Documents]]
+zyHlWWSn: [[SDN.excalidraw#^-7Ts8Rrz6kZqYtBfKaOoZ|ID Reg Documents]]
 
-Fu9L5TLU: [[Work/Kredio/SDN.excalidraw.md#^mtRmuOIe]]
+Fu9L5TLU: [[SDN.excalidraw#^mtRmuOIe]]
 
-v1gNXrAM: [[Work/Kredio/SDN.excalidraw.md#^mtRmuOIe]]
+v1gNXrAM: [[SDN.excalidraw#^mtRmuOIe]]
 
-3mDzhict: [[Work/Kredio/SDN.excalidraw.md#^kU7I148t]]
+3mDzhict: [[SDN.excalidraw#^kU7I148t]]
 
-HlbZTDeD: ![[Work/Kredio/SDN.excalidraw.md#^area=7hYpZBw7QzxWiTWEqV6Q-]]
+HlbZTDeD: ![[SDN.excalidraw#^area=7hYpZBw7QzxWiTWEqV6Q-]]
 
-RX5zCOaF: ![[Work/Kredio/SDN.excalidraw.md#^group=rbClbdqPoWBq6-lrcqHMb]]
+RX5zCOaF: ![[SDN.excalidraw#^group=rbClbdqPoWBq6-lrcqHMb]]
 
-NpzMduhM: ![[Work/Kredio/SDN.excalidraw.md#^group=PS61V_lyQ2fut5nsQ3dVT]]
+NpzMduhM: ![[SDN.excalidraw#^group=PS61V_lyQ2fut5nsQ3dVT]]
 
-kn2T8pCZ: [[Work/Kredio/SDN.excalidraw.md#^bkXqCuxk]]
+kn2T8pCZ: [[SDN.excalidraw#^bkXqCuxk]]
 
-SSEiwbOX: [[Work/Kredio/SDN.excalidraw.md#^mtRmuOIe]]
+SSEiwbOX: [[SDN.excalidraw#^mtRmuOIe]]
 
-5R42sLUw: [[Work/Kredio/SDN.excalidraw.md#^1aIvQ97i]]
+5R42sLUw: [[SDN.excalidraw#^1aIvQ97i]]
 
-iMmwRrSH: [[Work/Kredio/SDN.excalidraw.md#^kCnX_I6eTU-KRcigg_wNZ]]
+iMmwRrSH: [[SDN.excalidraw#^kCnX_I6eTU-KRcigg_wNZ]]
 
-w1wKSVUA: [[Work/Kredio/SDN.excalidraw.md#^nIYp3N_bgWHNQgcmQgzdF]]
+w1wKSVUA: [[SDN.excalidraw#^nIYp3N_bgWHNQgcmQgzdF]]
 
-VeHw1nhh: [[Work/Kredio/SDN.excalidraw.md#^Kkjy8MNZ]]
+VeHw1nhh: [[SDN.excalidraw#^Kkjy8MNZ]]
 
-imAiagrZ: [[Work/Kredio/SDN.excalidraw.md#^9VGp42eH]]
+imAiagrZ: [[SDN.excalidraw#^9VGp42eH]]
 
-EfEfFa5W: [[Work/Kredio/SDN.excalidraw.md#^6eLuYR49]]
+EfEfFa5W: [[SDN.excalidraw#^6eLuYR49]]
 
-8iIgV2bj: [[Work/Kredio/SDN.excalidraw.md#^DWLDnvIvGR0Tk9U2Zw9-R]]
+8iIgV2bj: [[SDN.excalidraw#^DWLDnvIvGR0Tk9U2Zw9-R]]
 
-eVrmI7ot: [[Work/Kredio/SDN.excalidraw.md#^qV9VEbG6]]
+eVrmI7ot: [[SDN.excalidraw#^qV9VEbG6]]
 
-c2hymqtO: [[Work/Kredio/SDN.excalidraw.md#^Kiq7waAH]]
+c2hymqtO: [[SDN.excalidraw#^Kiq7waAH]]
 
-EFOLuuxw: [[Work/Kredio/SDN.excalidraw.md#^7YgyuhLz]]
+EFOLuuxw: [[SDN.excalidraw#^7YgyuhLz]]
 
-yheyoNyl: [[Work/Kredio/SDN.excalidraw.md#^imAiagrZ]]
+yheyoNyl: [[SDN.excalidraw#^imAiagrZ]]
 
-Q44sfDdU: [[Work/Kredio/SDN.excalidraw.md#^imAiagrZ]]
+Q44sfDdU: [[SDN.excalidraw#^imAiagrZ]]
 
-hcQaCjXy: [[Work/Kredio/SDN.excalidraw.md#^46SJPdkQ]]
+hcQaCjXy: [[SDN.excalidraw#^46SJPdkQ]]
 
-SRCbTNDm: [[Work/Kredio/SDN.excalidraw.md#^RF9xggpiqMpupGIGRpjVL]]
+SRCbTNDm: [[SDN.excalidraw#^RF9xggpiqMpupGIGRpjVL]]
 
-BcfwkEQN: [[Work/Kredio/SDN.excalidraw.md#^tMXvSQYKE5SF4bWWA61Wy]]
+BcfwkEQN: [[SDN.excalidraw#^tMXvSQYKE5SF4bWWA61Wy]]
 
-aGNKfXTq: [[Work/Kredio/SDN.excalidraw.md#^imAiagrZ]]
+aGNKfXTq: [[SDN.excalidraw#^imAiagrZ]]
 
-VwHrQeeH: [[Work/Kredio/SDN.excalidraw.md#^mFLkKlZv]]
+VwHrQeeH: [[SDN.excalidraw#^mFLkKlZv]]
 
-DURXU7Ou: [[Work/Kredio/SDN.excalidraw.md#^HrNYF9opgDOP20Ki6iTRj]]
+DURXU7Ou: [[SDN.excalidraw#^HrNYF9opgDOP20Ki6iTRj]]
 
-2dCz0CEh: [[Work/Kredio/SDN.excalidraw.md#^wuPGYxIlcDpCuWC5hC1K5]]
+2dCz0CEh: [[SDN.excalidraw#^wuPGYxIlcDpCuWC5hC1K5]]
 
-zHcmQMRm: [[Work/Kredio/SDN.excalidraw.md#^A8OJcJ--rl0vRozLcnjUH]]
+zHcmQMRm: [[SDN.excalidraw#^A8OJcJ--rl0vRozLcnjUH]]
 
-iO2js7G3: [[Work/Kredio/SDN.excalidraw.md#^A8OJcJ--rl0vRozLcnjUH]]
+iO2js7G3: [[SDN.excalidraw#^A8OJcJ--rl0vRozLcnjUH]]
 
-dz0pGy3u: [[Work/Kredio/SDN.excalidraw.md#^Ojel8Fme]]
+dz0pGy3u: [[SDN.excalidraw#^Ojel8Fme]]
 
-KGgLoqhq: [[Work/Kredio/SDN.excalidraw.md#^LzjdoIEn]]
+KGgLoqhq: [[SDN.excalidraw#^LzjdoIEn]]
 
-eXx7FBHs: [[Work/Kredio/SDN.excalidraw.md#^3Lnlsz6i]]
+eXx7FBHs: [[SDN.excalidraw#^3Lnlsz6i]]
 
-m8Z2meRD: [[Work/Kredio/SDN.excalidraw.md#^h4yhXrKf]]
+m8Z2meRD: [[SDN.excalidraw#^h4yhXrKf]]
 
-3QJ2fv7S: [[Work/Kredio/SDN.excalidraw.md#^RK5UjuYy-0M00vGtZ-wvA]]
+3QJ2fv7S: [[SDN.excalidraw#^RK5UjuYy-0M00vGtZ-wvA]]
 
-k4VgHw8U: [[Work/Kredio/SDN.excalidraw.md#^A8OJcJ--rl0vRozLcnjUH]]
+k4VgHw8U: [[SDN.excalidraw#^A8OJcJ--rl0vRozLcnjUH]]
 
-dGjzjri0: [[Work/Kredio/SDN.excalidraw.md#^rbClbdqPoWBq6-lrcqHMb]]
+dGjzjri0: [[SDN.excalidraw#^rbClbdqPoWBq6-lrcqHMb]]
 
-fHFA8v3w: [[Work/Kredio/SDN.excalidraw.md#^9eB4Yw5z4QWhWaxUmAI_L]]
+fHFA8v3w: [[SDN.excalidraw#^9eB4Yw5z4QWhWaxUmAI_L]]
 
 %%
 ## Drawing

@@ -18,3 +18,5 @@ SCRIPT FOR BALANCES IN SYNC
 SCRIPT TO UPDATE OFAC
 Replicate Merchant and MCC Controls to Galileo
 User Interface Action Controls check, and user money movement limit function move it to class 
+Abstraction to Money Movement Classes
+Social Media Checker
