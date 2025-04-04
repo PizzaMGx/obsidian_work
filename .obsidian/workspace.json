@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Oliphant/Comunication Channels/MMS SBT.md",
+                "file": "Work/Oliphant/Comunication Channels/SMS SBT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MMS SBT"
+              "title": "SMS SBT"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Oliphant/Comunication Channels/MMS SBT.md",
+                "file": "Work/Oliphant/Comunication Channels/SMS SBT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MMS SBT"
+              "title": "Outline of SMS SBT"
             }
           }
         ],
@@ -168,13 +168,13 @@
       "chat-with-bard:New Gemini Chat": false
     }
   },
-  "active": "4ad3c210671a8b99",
+  "active": "59b51018b8d25fd4",
   "lastOpenFiles": [
-    "Work/Oliphant/Comunication Channels/LETTERS SBT.md",
-    "Work/Oliphant/Comunication Channels/EMAILS Mailgun.md",
-    "Work/Oliphant/Comunication Channels/SMS SBT.md",
-    "Work/Oliphant/Comunication Channels/VOICEMAILS DropCowboys.md",
+    "Work/Oliphant/Comunication Channels/VOICEMAILS DropCowboys + VOAPPS.md",
     "Work/Oliphant/Comunication Channels/MMS SBT.md",
+    "Work/Oliphant/Comunication Channels/SMS SBT.md",
+    "Work/Oliphant/Comunication Channels/LETTERS SBT.md",
+    "Work/Oliphant/Comunication Channels/EMAILS Mailgun + Postman.md",
     "Notes/Project Ideas.md",
     "Work/Oliphant/Comunication Channels",
     "Work/Wevisu/WEW Tools.md",
