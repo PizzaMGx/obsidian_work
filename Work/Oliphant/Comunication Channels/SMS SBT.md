@@ -15,7 +15,7 @@ Note To test how many sms are going to be sent without saving to SBT_campaingFil
 	DROP TABLE #INSERT,#Inventory,#OFFER,#Address,#Prelegal,#NY,#Restriction,#Active,#Special
 	Is good to Run this once a day before The job Starts Running to predict SMS Generation 
 To get the amount of SMS sent per Template run:
-```
+```SQL
 SELECT TemplateID
 	,COUNT(DISTINCT UniqueID) AS NumberofAccounts
 FROM AIM.dbo.SBT_CampaignFile
@@ -23,3 +23,6 @@ WHERE EntryDate = CAST(GETDATE() AS DATE)
 GROUP BY TemplateID  
 ORDER BY TemplateID
 ```
+
+Run Campaign on the weekend:
+Enable the job SBT-Weekend-Campaigns on the requested weekends, It uses template 74 
