@@ -8,6 +8,10 @@
 Procedure tips: Comment out the union with settlement accounts if less accounts are required (around line 300)
 Schedule: Running manually, usually at 10 am EST time
 
+SQL Explanation:
+- First as an optional Step we populate a SIF table for bigger Volume
+- 
+
 ##### **Python Scripts: Olitools/ecol_dropcowboys process_campaigns_dp  - Olitools/ecol_metrics create_dnc_livevox** 
 - First Script grabs the files in the automation/DropCowboy folder and sends the voicemails to the respective phone numbers
 - Sends the files to the automation/DropCowboy/Archive folder
