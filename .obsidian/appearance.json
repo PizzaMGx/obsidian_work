@@ -1,4 +1,5 @@
 {
   "accentColor": "#81041d",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "obsidian"
 }
