@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGlobe",
       "LiBrain",
       "LiPanelBottomInactive",
       "📓",
-      "🤖",
-      "LiComputer"
+      "🤖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "SysAdmin & Cybersecurity": "LiNetwork",
   "Programming": "LiComputer",
   "Artificial Intelligence": "LiBrain",
-  "Notes": "LiPanelBottomInactive"
+  "Notes": "LiPanelBottomInactive",
+  "Posts": "LiGlobe"
 }
