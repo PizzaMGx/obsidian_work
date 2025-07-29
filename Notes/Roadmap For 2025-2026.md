@@ -28,4 +28,23 @@ Here’s how you can pace this over the next 12–18 months:
     
 - Look for **tech lead** opportunities, either formally or within side projects
 
-Testing 
+
+### What Do I have
+I have a solid background of software Development with python and Containers
+- I can build solid web apps to help my career
+### What DO I Need
+Boost my knowledge on Linux, Hyprland and Data Manipulation
+Next Steps:
+	- Add a couple Posts to my blog
+	- Add automated pipeline deploy of blog and Resume apps
+	- Work on my Gymder App
+	- Boost My resume
+	- Get A new Certification of a new skill (Cybersecurity) 
+	- Refresh logic and algorithms via a website that I can show on my resume to show that I stay sharp
+	- Colaborations on Github
+	- Work on Natalie Portfolio
+	- Make Hyprland prettier and Learn more about Arch Linux in general (Create a custom Dashboard)
+	- Improve my Code Testing and Monitoring Skills
+
+(1) - Add a couple Posts to my Blog and Add Automated pipeline deploy
+	- Before the end of this week - Jul 29
