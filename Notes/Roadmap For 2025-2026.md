@@ -27,3 +27,5 @@ Here’s how you can pace this over the next 12–18 months:
 - Lead a small team or mentor a junior
     
 - Look for **tech lead** opportunities, either formally or within side projects
+
+Testing 
