@@ -67,3 +67,20 @@ def notify_on_error(context: str = "general"):
                 raise
         return wrapper
     return decorator
+```
+
+## 🎁 Bonus Tips
+
+- Add Slack-style formatting or color with Teams Adaptive Cards if you want fancier messages.
+    
+- Use different webhook URLs per environment or function type for better filtering.
+
+## 🧭 Final Thoughts
+
+Monitoring errors directly in Teams helps me:
+
+✅ Respond faster  
+✅ Avoid context switching  
+✅ Collaborate on fixes with my team in real-time
+
+Give it a try and watch your **mean time to detection** drop! ⏱️
