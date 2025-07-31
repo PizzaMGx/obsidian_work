@@ -13,6 +13,8 @@ categories:
 
 Hey there! I’m glad you found your way here.
 
+![[Pasted image 20250730191744.png]]
+
 This blog is my little corner of the internet where I share thoughts, experiments, and tips on topics I care about — mostly coding, tools I use, debugging tricks, and whatever I’m learning or building.
 
 If you're into:

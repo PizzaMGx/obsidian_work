@@ -135,14 +135,6 @@ Some Markdown renderers (like Hugo with shortcodes or Obsidian plugins) allow ca
 > 💡 **Tip:** You can use emoji in headings and callouts for visual emphasis.
 ```
 
-Or if using Hugo shortcodes:
-
-```markdown
-{{% alert note %}}
-This is a note or tip box.
-{{% /alert %}}
-```
-
 ## 🔠 Text Formatting Cheatsheet
 
 |Format|Markdown Syntax|Example Output|
