@@ -27,10 +27,15 @@ In this post, I'll walk you through how I:
 ## 🪛 Step 1: Create a Teams Workflow Channel
 
 1. Go to your **Microsoft Teams** workspace.
-2. Select or create a channel where you want alerts.
-3. Click the `...` next to the channel → **Connectors**.
-4. Add the **Incoming Webhook** connector.
-5. Name it (e.g., `Prod Alerts`) and copy the generated **Webhook URL**.
+2. In **Your teams and channels** add a new channel for monitoring
+3. In the Workflows Space Select Send webhook alerts to a channel 
+![[Pasted image 20250731163755.png]]
+
+4. Give it a Name
+5. Select your Flow and Channel and get the Webhook
+![[Pasted image 20250731164905.png]]
+6. Grab your webhook to use in your application
+![[Pasted image 20250731164752.png]]
 
 Now you've got a URL where you can POST messages to land directly in your Teams channel 🎉.
 
