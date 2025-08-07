@@ -16,14 +16,12 @@ As a developer and avid Dota 2 player, I wanted a personal project that could co
 
 The goal? To track my personal match history, identify patterns like the best times of day or week to play, and see whether I’m actually improving over time. Along the way, I got to apply skills in API integration, data wrangling, and front-end visualization—all in Python.
 
-### What I Wanted to Analyze
+### Objectives of this project
 
-I wanted to understand:
-
-- ✅ My total matches, wins, losses, and winrate
-- 🏆 My most successful heroes
-- 📅 Which days of the week I perform best
-- ⏰ What days are the most effective to play
+-  My total matches, wins, losses, and Winrate
+-  My most successful heroes
+-  Radiant And Dire Winrate 
+-  What days are the most effective to play
 
 ---
 
