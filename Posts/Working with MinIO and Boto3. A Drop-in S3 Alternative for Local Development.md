@@ -61,14 +61,14 @@ Visit [http://localhost:9001](http://localhost:9001) to log in (user: `minioadmi
 
 Install the necessary packages:
 
-```
+```bash
 pip install boto3 django-storages
 ```
 
 
 Update `settings.py`:
 
-```
+```python
 INSTALLED_APPS += ["storages"]
 
 DEFAULT_FILE_STORAGE = "storages.backends.s3boto3.S3Boto3Storage"
@@ -83,9 +83,9 @@ AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL = None
 ```
 
-Step 3: Create a Django Model with an `ImageField`:
+### Step 3: Create a Django Model with an `ImageField`:
 
-```
+```python
 from django.db import models
 
 class UserProfile(models.Model):
@@ -94,10 +94,40 @@ class UserProfile(models.Model):
 
     def __str__(self):
         return self.name
-
 ```
 
 Then run migrations and test uploading via Django admin or DRF if you're using it.
+
+### Step 4: Create an api handler for boto3 to handle s3 connection to minio
+
+```python
+class S3Api:  
+    def __init__(self):  
+        self.s3 = boto3.client('s3',  
+endpoint_url=os.environ.get('S3_BUCKET_ENDPOINT', 'http://minio:9000').strip(),    aws_access_key_id=os.environ.get('AWS_ACCESS_KEY_ID','minioadmin').strip(),   aws_secret_access_key=os.environ.get('AWS_SECRET_ACCESS_KEY','minioadmin').strip())
+  
+    def ping(self):  
+        try:  
+            logger.error("Connection to S3 is successful.")  
+            return True  
+        except EndpointConnectionError:  
+            logger.error("Could not connect to the S3 endpoint.")  
+            return False  
+        except NoCredentialsError:  
+            logger.error("Credentials not found.")  
+            return False  
+        except Exception as e:  
+            logger.error(f"An error occurred: {e}")  
+            return False
+```
+
+Call the class to interact with the minio container to perform operation like Create Bucket:
+
+```python
+from api.s3 import S3Api  
+s3 = S3Api()  
+s3.s3.create_bucket(Bucket=os.environ.get('S3_BUCKET_NAME', 'testingbucket'))
+```
 
 ## 🧰 Step 4: Test File Upload and Access
 
